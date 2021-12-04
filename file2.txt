@@ -3,3 +3,4 @@ string
 v1
 Line from user2
 Another line from user2
+critical bug fixed
